@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = florent.geron@orange.fr
+	name = Florent Geron
